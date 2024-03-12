@@ -25,7 +25,7 @@ git clone https://github.com/CBI-PITT/stack_to_multiscale_ngff.git
 cd stack_to_multiscale_ngff
 
 # Create a virtual environment
-conda create -n stack_to_multiscale_ngff python=3.8 -y
+conda create -n stack_to_multiscale_ngff python=3.11 -y
 # Activate the virtual environment
 conda activate stack_to_multiscale_ngff
 
